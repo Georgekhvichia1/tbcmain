@@ -29,7 +29,7 @@ Why These Technologies?
 Follow these steps to run the project locally:
 
 #  Clone the Repository
-    git clone (https://georgekhvichia1.github.io/tbcmain/)
+    git clone  https://github.com/Georgekhvichia1/tbcmain.git  
 
 # Navigate to the Project Directory
     cd tbcmain
